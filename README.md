@@ -4,10 +4,16 @@ This repository contains all the pre-requisite notebooks for my internship as a 
 
 It includes some of the micro-courses from kaggle. They are enlisted below:
 
-Data Cleaning
-Data Visualization
-Data Manipulation
-Machine Learning - Introduction
-Machine Learning - Intermediate
-Machine Learning Explainability
-Feature Engineering
+1) Data Cleaning
+
+2) Data Visualization
+
+3) Data Manipulation
+
+4) Machine Learning - Introduction
+
+5) Machine Learning - Intermediate
+
+6) Machine Learning Explainability
+
+7) Feature Engineering
